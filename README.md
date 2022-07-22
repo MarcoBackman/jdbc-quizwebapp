@@ -1,4 +1,4 @@
-# potential-journey
+# Java Spring & Maven quiz taking web applicatipon (JDBC, mySQL, JSP, JSTL)
 A full web application that has multiple features related to the online-quiz taking action.
 
 # Database Schema
