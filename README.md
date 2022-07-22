@@ -1,5 +1,6 @@
-# Java Spring & Maven quiz taking web applicatipon (JDBC, mySQL, JSP, JSTL)
-A full web application that has multiple features related to the online-quiz taking action.
+# Java Spring & Maven quiz taking web applicatipon
+A full web application that has multiple features related to the online-quiz taking action. <br>
+Also used (JDBC, mySQL, JSP, JSTL)
 
 # Database Schema
 
