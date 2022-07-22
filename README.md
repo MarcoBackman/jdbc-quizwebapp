@@ -3,4 +3,4 @@ A full web application that has multiple features related to the online-quiz tak
 
 # Database Schema
 
-! [ Database Schema](/img/ER Diagram.png)
+! [Database Schema](/img/ER_Diagram.png)
