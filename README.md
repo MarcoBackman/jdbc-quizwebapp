@@ -18,4 +18,3 @@ Also used (JDBC, mySQL, JSP, JSTL)
 <img src="/img/3.PNG" width="500">
 <img src="/img/4.PNG" width="500">
 <img src="/img/5.PNG" width="500">
-<img src="/img/6.PNG" width="500">
