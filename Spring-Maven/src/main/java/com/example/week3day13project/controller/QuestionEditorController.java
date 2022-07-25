@@ -33,7 +33,7 @@ public class QuestionEditorController {
         List<QuizType> quizTypes = quizService.getAllQuizTypes();
         model.addAttribute("quizTypes", quizTypes);
 
-        //K - QuizTypeDescription V - List<Question>
+            //K - QuizTypeDescription V - List<Question>
         Hashtable<String, List<Question>> nestedCollection = new Hashtable<>();
 
         for (QuizType quizType : quizTypes) {
